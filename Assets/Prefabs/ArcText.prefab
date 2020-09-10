@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2851423550401932972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2851423550401932975}
+  - component: {fileID: 2851423550401932969}
+  - component: {fileID: 2851423550401932974}
+  - component: {fileID: 1552495134263365911}
+  - component: {fileID: 8904495399066589503}
+  m_Layer: 0
+  m_Name: ArcText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2851423550401932975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2851423550401932972}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 27.25476, y: 181.10878, z: -112.24675}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!120 &2851423550401932969
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2851423550401932972}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 1f24b8e6327ce4540b3908ae741edb38, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: -28.461422, y: 0.54999995, z: 3.1}
+  - {x: -28.408253, y: 0.7672417, z: 3.1}
+  - {x: -28.355083, y: 0.9727646, z: 3.1}
+  - {x: -28.301914, y: 1.1665689, z: 3.1}
+  - {x: -28.248745, y: 1.3486543, z: 3.1}
+  - {x: -28.195576, y: 1.519021, z: 3.1}
+  - {x: -28.142406, y: 1.677669, z: 3.1}
+  - {x: -28.089237, y: 1.8245983, z: 3.1}
+  - {x: -28.036068, y: 1.9598087, z: 3.1}
+  - {x: -27.982897, y: 2.0833004, z: 3.1}
+  - {x: -27.929728, y: 2.1950734, z: 3.1}
+  - {x: -27.876558, y: 2.2951276, z: 3.1}
+  - {x: -27.82339, y: 2.3834631, z: 3.1}
+  - {x: -27.77022, y: 2.46008, z: 3.1}
+  - {x: -27.71705, y: 2.524978, z: 3.1}
+  - {x: -27.663881, y: 2.5781572, z: 3.1}
+  - {x: -27.61071, y: 2.6196175, z: 3.1}
+  - {x: -27.55754, y: 2.6493592, z: 3.1}
+  - {x: -27.504372, y: 2.6673822, z: 3.1}
+  - {x: -27.451202, y: 2.6736865, z: 3.1}
+  - {x: -27.398033, y: 2.668272, z: 3.1}
+  - {x: -27.344864, y: 2.6511388, z: 3.1}
+  - {x: -27.291695, y: 2.6222868, z: 3.1}
+  - {x: -27.238525, y: 2.581716, z: 3.1}
+  - {x: -27.185354, y: 2.5294266, z: 3.1}
+  - {x: -27.132185, y: 2.465418, z: 3.1}
+  - {x: -27.079016, y: 2.389691, z: 3.1}
+  - {x: -27.025846, y: 2.3022454, z: 3.1}
+  - {x: -26.972677, y: 2.203081, z: 3.1}
+  - {x: -26.919508, y: 2.0921977, z: 3.1}
+  - {x: -26.866339, y: 1.9695956, z: 3.1}
+  - {x: -26.81317, y: 1.8352748, z: 3.1}
+  - {x: -26.76, y: 1.6892353, z: 3.1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03883499
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 0, b: 0.8565397, a: 1}
+      key1: {r: 1, g: 0.8548728, b: 0, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 10
+    numCapVertices: 10
+    alignment: 0
+    textureMode: 0
+    shadowBias: 4.06
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+--- !u!114 &2851423550401932974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2851423550401932972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be795bc461673429fbf9ca40bdb92a2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Origin: {fileID: 0}
+  End: {fileID: 0}
+  lineRenderer: {fileID: 2851423550401932969}
+  VertexCount: 43
+  CurveHigt: 1
+  AnimAng: 1
+  Type: Methodology
+  ArcAnim: {fileID: 1552495134263365911}
+--- !u!95 &1552495134263365911
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2851423550401932972}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f7177b6aa1abb48579cff732d2a47b52, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8904495399066589503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2851423550401932972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2153c3b390ca462c96ee98d6cae7f39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TextAnim: {fileID: 1552495134263365911}
+  lineRenderer: {fileID: 2851423550401932969}
+  textTranslation: 0

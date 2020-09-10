@@ -1,0 +1,104 @@
+{
+    "Cases": [
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Vermillion River Observatory",
+            "Description": "The Vermillion River Observatory was constructed thanks to the work of George Swenson, a professor of astronomy and electrical engineering. Swenson was in charge of creating an interdisciplinary program in radio astronomy research. The telescopes (a model of which is found in the case) helped scientists catalog interstellar data. They then used this data to analyze the molecular structure of interstellar gas.",
+            "Types": [
+                "Technology",
+                "Methodology"
+            ],
+            "URL": "https://distributedmuseum.illinois.edu/exhibit/george_swenson/", 
+            "PosX":-1,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Photoelectric Photometer",
+            "Description": "i. Measuring a star’s brightness would take hours of observation and calculations. Astronomy professor Joel Stebbins in collaboration with physics professors F.C. Brown and Jakob Kunz would develop the photoelectric photometer which would use electricity to help simplify this process.ii. Stebbins credited his wife as the driving force for this idea. When they were first married she would sometimes go to the observatory with him to help him get his work done faster so they could spend more time together. He told her one day they would be able to do this much faster with electricity and from then on she encouraged him to discover this method. A couple of months later he went to a physics open house where F.C. Brown had a demonstration of a selenium cell. Stebbins worked with Brown to create a selenium cell photometer. iii. While the selenium cell photometer helped discover five new eclipsing binary stars, Stebbins felt it was not strong enough. He was introduced to Jakob Kunz, who had been working to improve photoelectric cells. They collaborated to create and continually refine the photoelectric photometer. This development allowed for stebbins to better research variable stars and he was able to measure diameters and masses more accurately than any other instrument had been able to provide up to that point.",
+            "Types": [
+                "Technology"
+            ],
+            "URL": "https://distributedmuseum.illinois.edu/exhibit/photoelectric_photometer/", 
+            "PosX":0,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Electrostatically Suspended Gyroscope",
+            "Description": "Sometimes an innovation can be used for multiple purposes, some not even imagined while creating it. The electrostatic gyroscope was created at the University of Illinois by Howard Knoebel. The electrostatic gyroscope was initially invented to be used in submarines - which needed an instrument that would not need to be calibrated since it would be submerged for up to 30 days at a time. This device though would later be used in satellites to help them navigate space.",
+            "Types": [
+                "Technology",
+                "Process"
+            ],
+            "URL": "https://distributedmuseum.illinois.edu/exhibit/electrostatically_suspended_gyroscope_/", 
+            "PosX":1,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Large Synoptic Survey Telescope",
+            "Description": "Today, the University of Illinois continues its interdisciplinary and collaborative approach to astronomy. One current project is the Large Synoptic Survey Telescope. This project is an international collaboration with the telescope located in Chile and the data being stored in Champaign Urbana. The National Center for Supercomputing Applications will store the 10 years worth of data, collecting about 20 terabytes of image data a night beginning in 2023. The data will be processed into reports as well as alerting researchers in near-real time of new and unexpected astronomical events.",
+            "Types": [
+                "Technology"
+            ],
+            "URL": " https://distributedmuseum.illinois.edu/exhibit/large-synoptic-survey-telescope/", 
+            "PosX":2,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Visualizations of space",
+            "Description": "The faculty and staff at NCSA has worked to develop models and visualizations of space. One recurrent visualization is the black hole. A prominent figure in Science Fiction, the black hole has a lot of unknowns. But through study and research of the space around the black hole, as well as other measurements, NCSA has been able to visualize and create artistic renderings of ways to show how a black hole operates. Examples include numeric models to detect gravitational waves from black holes colliding.",
+            "Types": [
+                "Methodology",
+                "Technology"
+            ],
+            "URL": "https://news.illinois.edu/view/6367/563630",
+            "PosX":3,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Example Methodologt - Process Case",
+            "Description": "Empty Case",
+            "Types": [
+                "Methodology",
+                "Process"
+            ],
+            "URL": "https://news.illinois.edu/view/6367/563630",
+            "PosX":4,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Example Framework Case 1",
+            "Description": "Empty Case",
+            "Types": [
+                "Framework"
+            ],
+            "URL": "https://news.illinois.edu/view/6367/563630",
+            "PosX":-2,
+            "PosY":-0.7,
+            "PosZ":0
+        },
+        {
+            "Theme": "Looking to the Sky",
+            "Innovation": "Example Framework Case 1",
+            "Description": "Empty Case",
+            "Types": [
+                "Framework"
+            ],
+            "URL": "https://news.illinois.edu/view/6367/563630",
+            "PosX":-3,
+            "PosY":-0.7,
+            "PosZ":0
+        }
+    ]
+}
